@@ -2,7 +2,7 @@
 
 This template project should be forked by hatch teams.
 
-This project was developed during [hatchlondon 2017](http://hatchlondon.io).
+This project was developed during [hatchlondon 2018](http://hatchlondon.io).
 
 ## Todo
 
