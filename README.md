@@ -1,6 +1,6 @@
 # Team 8: ImpactGurus
 
-brief project description.
+A knowledge sharing and investment platform that connects small businesses in developing nations with investors.
 
 This project was developed during [hatchlondon 2018](http://hatchlondon.io).
 
@@ -27,9 +27,9 @@ From now on it is in your **Forked** repo
 - [✓] 5. Change the name at the top of this file on `line 1`
 - [✓] 6. Under the name of this project put a brief description of the project `line 3` (this can be more detailed than `step 4`)
 - [✓] 7. Fill in your team members in the **TEAM** section below
-- [] 8. Fill in the **PROBLEM AND SOLUTION** section below
-- [ ] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
-- [ ] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your repo
+- [✓ 8. Fill in the **PROBLEM AND SOLUTION** section below
+- [✓] 9. Fill in the **INSTALL AND RUN THIS PROJECT** section below
+- [✓] 10. Any *digital / paper* notes you make during the hackathon you MUST add to the **Issue** section in your repo
 
 *TIP: drag and drop [images / photos](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/)*
 
@@ -46,7 +46,11 @@ Include all members of your team for the hack here:
 
 ## Problem and Solution
 
-Describe here which problem you are working on during the event, and what your solution is, succinctly.
+Small, innovative businesses in developing countries are often unable to scale due to a variety of reasons.
+According to The World Bank, this includes: a lack of business knowledge, proper financing and connections. ImpactGuru aims to solve
+these problems. First, we aim to provide a platform to connect knowledge sharers to up-and-coming entrepreneurs in developing nations. 
+By connecting knowledge-sharers with knowledge gainers, we aim to provide a way for the latter party to increase profits and move up 
+the value chain.
 
 ## Install and run this project
 
