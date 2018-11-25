@@ -4,7 +4,7 @@ A knowledge sharing and investment platform that connects small businesses in de
 
 This project was developed during [hatchlondon 2018](http://hatchlondon.io).
 
-## Todo
+## To do
 
 Tick items off as you go along.
 
