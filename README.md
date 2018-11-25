@@ -1,4 +1,4 @@
-# hatch-template-project - replace with your project name
+# Team 8: ImpactGurus
 
 This template project should be forked by hatch teams.
 
